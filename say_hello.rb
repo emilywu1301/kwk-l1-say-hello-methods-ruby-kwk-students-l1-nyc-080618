@@ -7,7 +7,4 @@ end
 say_hello("emily")
 
 def say_hello
-  puts "Hello Ruby Programmer!"
-end
-
-say_hello
+  puts "Hello Ruby Programm
